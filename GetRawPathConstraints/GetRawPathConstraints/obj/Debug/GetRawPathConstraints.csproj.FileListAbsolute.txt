@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\bin\Debug\GetRawPathConstraints.exe.config
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\bin\Debug\GetRawPathConstraints.exe
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\bin\Debug\GetRawPathConstraints.pdb
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\obj\Debug\GetRawPathConstraints.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\obj\Debug\GetRawPathConstraints.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\obj\Debug\GetRawPathConstraints.exe
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints\obj\Debug\GetRawPathConstraints.pdb

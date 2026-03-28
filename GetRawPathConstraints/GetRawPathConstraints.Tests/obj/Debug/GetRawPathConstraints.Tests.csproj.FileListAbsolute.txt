@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\GetRawPathConstraints.Tests.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\GetRawPathConstraints.Tests.pdb
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\GetRawPathConstraints.exe
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\GetRawPathConstraints.pdb
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\GetRawPathConstraints.exe.config
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\obj\Debug\GetRawPathConstraints.Tests.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\obj\Debug\GetRawPathConstraints.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\obj\Debug\GetRawPathConstraints.Tests.csproj.CopyComplete
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\obj\Debug\GetRawPathConstraints.Tests.dll
+C:\Users\lenovo\source\repos\GetRawPathConstraints\GetRawPathConstraints.Tests\obj\Debug\GetRawPathConstraints.Tests.pdb

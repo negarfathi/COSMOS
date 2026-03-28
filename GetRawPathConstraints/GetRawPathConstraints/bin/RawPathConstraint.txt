@@ -1,0 +1,9 @@
+PC:(Ceq (Ceq target01 null) 0)
+(Ceq (Ceq target null) 0)
+(Ceq (strlen target) 1)
+
+PC:(Ceq (Ceq target01 null) 0)
+(Ceq (Ceq target null) 0)
+(Clt 0 (strlen target))
+(Ceq (Ceq (strlen target) 1) 0)
+

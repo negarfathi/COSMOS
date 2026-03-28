@@ -1,0 +1,7 @@
+Path Constraint:
+(a1[i1]==a2[i1]&&i1>=0&&i1<1)&&(a2[i1]==a1[i1]&&i1>=0&&i1<1)&&a1==a2&&(a1!=a2)
+
+Results:
+Unsatisfiable
+
+Execution Time: 510 ms
