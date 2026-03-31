@@ -6,6 +6,6 @@ COSMOS is a research-oriented framework for automatically generating domain-orie
 
 ### Papers
 
-This repository is based on the following paper:
+This repository is based on the following work:
 
 A. Kalaee, S. Parsa, and N. Fathi, “COSMOS: A Comprehensive Framework for Automatically Generating Domain-Oriented Test Suite,” *Information and Software Technology*, vol. 154, p. 107091, Feb. 2023, doi: [10.1016/j.infsof.2022.107091](https://doi.org/10.1016/j.infsof.2022.107091).
