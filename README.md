@@ -4,7 +4,7 @@ COSMOS is a research-oriented framework for automatically generating domain-orie
 
 
 
-### Papers
+### Related Papers
 
 This repository is based on the following work:
 
